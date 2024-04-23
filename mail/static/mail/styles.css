@@ -9,3 +9,9 @@ textarea {
 .unread{
     background-color: white;
 }
+
+.logo{
+    height: 75px;
+    width: 150px;
+    margin-left: -20px;
+}
